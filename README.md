@@ -16,5 +16,5 @@ connect your ps3 and pc on same network
 go to ps3 browser, clear browser cache history & cookie.
 put id address and port.
 
+![alt text](https://4.bp.blogspot.com/-h9M3PL7BZZs/W_hRzCA9-AI/AAAAAAAAAeI/vwzsi9oIkzMc69CEEcvKATxwWzY9tCZzACLcBGAs/s1600/PS3%2BNEW%2BGAME.png "image title")
 
-https://4.bp.blogspot.com/-h9M3PL7BZZs/W_hRzCA9-AI/AAAAAAAAAeI/vwzsi9oIkzMc69CEEcvKATxwWzY9tCZzACLcBGAs/s1600/PS3%2BNEW%2BGAME.png
